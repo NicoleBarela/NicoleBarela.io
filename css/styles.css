@@ -31,72 +31,60 @@ a {
     color: #ffffff;
 }
 
-/**
-.button-font-color {
-    color: #ffffff;
-}
-**/
-
-/*
-.carousel-indicator-color .active {
-    background-color: #A1738D;
-}
-*/
-
 
 .carousel-control-prev-icon {
-    background-image: url(/icons/chevron-right-solid.svg);
-    transform: rotate(180deg);
+    background-image: url(/icons/chevron-right-solid.svg) !important;
+    transform: rotate(180deg) !important;
 }
 
 .carousel-control-next-icon {
-    background-image: url(/icons/chevron-right-solid.svg);
+    background-image: url(/icons/chevron-right-solid.svg) !important;
 }
 
 .hero-button {
-    padding:10rem 7rem 0;
+    padding:10rem 7rem 0 !important;
 }
 
 .button_text {
-    margin: 2rem 1rem 0 0;
-    padding: .7rem 3rem;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7rem 3rem !important;
     padding: .5em 1em !important;
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .button_text:hover {
-    color:#2d586e;
+    color:#2d586e !important;
 }
 
 .button_text:focus {
-    outline: none;
-    box-shadow: none;
-    border:none;
+    outline: none !important;
+    box-shadow: none !important;
+    border:none !important;
 }
 
 .button_text_blue {
-    margin: 2rem 1rem 0 0;
-    padding: .7em 3em .7em 0;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7em 3em .7em 0 !important;
     padding: .5em 0 !important;
-    color: #427997;
-    outline: none;
+    color: #427997 !important;
+    outline: none !important;
 }
 
 .button_text_blue:focus{
-    box-shadow:none;
-    outline:none;
-    border:none;
+    box-shadow:none !important;
+    outline:none !important;
+    border:none !important;
 }
 
 .button_text_blue:hover{
-    color:#2d586e;
+    color:#2d586e !important;
 }
 
 
 
 .button_fill {
-    margin: 2rem 1rem 0 0;
-    padding: .7rem 3rem;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7rem 3rem !important;
 }
 
 .btn-primary {
@@ -531,41 +519,41 @@ a {
 */
 
 .carousel-control-prev-icon {
-    background-image: url(/icons/chevron-right-solid.svg);
-    transform: rotate(180deg);
-    background-size:15px;
+    background-image: url(/icons/chevron-right-solid.svg) !important;
+    transform: rotate(180deg) !important;
+    background-size:15px !important;
 }
 
 .carousel-control-next-icon {
-    background-image: url(/icons/chevron-right-solid.svg);
-    background-size:15px;
+    background-image: url(/icons/chevron-right-solid.svg) !important;
+    background-size:15px !important;
 }
 
 .button-font-color {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 
 
 .hero-button {
-    padding:10rem 7rem 0;
+    padding:10rem 7rem 0 !important;
 }
 
 .button_text {
-    margin: 2rem 1rem 0 0;
-    padding: .7rem 3rem;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7rem 3rem !important;
     padding: 0 !important;
 }
 
 
 .button_fill {
-    margin: 2rem 1rem 0 0;
-    padding: .7rem 3rem;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7rem 3rem !important;
 }
 
 .btn-primary {
     background-color:  #427997 !important;
-    border: none;
+    border: none !important;
 }
 
 .btn-primary:hover{
@@ -912,48 +900,43 @@ a {
     color: #ffffff;
 }
 
-/*
-.carousel-indicator-color .active {
-    background-color: #A1738D;
-}
-*/
 
 .carousel-control-prev-icon {
-    background-image: url(/icons/chevron-right-solid.svg);
-    transform: rotate(180deg);
-    background-size:15px;
+    background-image: url(/icons/chevron-right-solid.svg) !important;
+    transform: rotate(180deg) !important;
+    background-size:15px !important;
 }
 
 .carousel-control-next-icon {
-    background-image: url(/icons/chevron-right-solid.svg);
-    background-size:15px;
+    background-image: url(/icons/chevron-right-solid.svg) !important;
+    background-size:15px !important;
 }
 
 .button-font-color {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 
 
 .hero-button {
-    padding:10rem 7rem 0;
+    padding:10rem 7rem 0 !important;
 }
 
 .button_text {
-    margin: 2rem 1rem 0 0;
-    padding: .7rem 3rem;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7rem 3rem !important;
     padding: 0 !important;
 }
 
 
 .button_fill {
-    margin: 2rem 1rem 0 0;
-    padding: .7rem 3rem;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7rem 3rem !important;
 }
 
 .btn-primary {
     background-color:  #427997 !important;
-    border: none;
+    border: none !important;
 }
 
 .btn-primary:hover{
@@ -1303,36 +1286,36 @@ a {
 }
 
 .carousel-control-prev-icon {
-    background-image: url(/icons/chevron-right-solid.svg);
-    transform: rotate(180deg);
-    background-size:15px;
+    background-image: url(/icons/chevron-right-solid.svg) !important;
+    transform: rotate(180deg) !important;
+    background-size:15px !important;
 }
 
 .carousel-control-next-icon {
-    background-image: url(/icons/chevron-right-solid.svg);
-    background-size:15px;
+    background-image: url(/icons/chevron-right-solid.svg) !important;
+    background-size:15px !important;
 }
 
 .button-font-color {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 
 
 .hero-button {
-    padding:10rem 7rem 0;
+    padding:10rem 7rem 0 !important;
 }
 
 .button_text {
-    margin: 2rem 1rem 0 0;
-    padding: .7rem 3rem;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7rem 3rem !important;
     padding: 0 !important;
 }
 
 
 .button_fill {
-    margin: 2rem 1rem 0 0;
-    padding: .7rem 3rem;
+    margin: 2rem 1rem 0 0 !important;
+    padding: .7rem 3rem !important;
 }
 
 .btn-primary {
@@ -1345,7 +1328,7 @@ a {
 }
 
 .right-arrow {
-    margin-left: .5rem;
+    margin-left: .5rem !important;
 }
 
 .download-arrow {
@@ -1687,58 +1670,58 @@ input:required:invalid{
     
     
     .carousel-control-prev-icon {
-        background-image: url(/icons/chevron-right-solid.svg);
-        transform: rotate(180deg);
+        background-image: url(/icons/chevron-right-solid.svg) !important;
+        transform: rotate(180deg) !important;
     }
     
     .carousel-control-next-icon {
-        background-image: url(/icons/chevron-right-solid.svg);
+        background-image: url(/icons/chevron-right-solid.svg) !important;
     }
     
     .hero-button {
-        padding:10rem 7rem 0;
+        padding:10rem 7rem 0 !important;
     }
     
     .button_text {
-        margin: 2rem 1rem 0 0;
-        padding: .7rem 3rem;
+        margin: 2rem 1rem 0 0 !important;
+        padding: .7rem 3rem !important;
         padding: .5em 1em !important;
-        color: #ffffff;
+        color: #ffffff !important;
     }
     
     .button_text:hover {
-        color:#2d586e;
+        color:#2d586e !important;
     }
     
     .button_text:focus {
-        outline: none;
-        box-shadow: none;
-        border:none;
+        outline: none !important;
+        box-shadow: none !important;
+        border:none !important;
     }
     
     .button_text_blue {
-        margin: 2rem 1rem 0 0;
-        padding: .7em 3em .7em 0;
+        margin: 2rem 1rem 0 0 !important;
+        padding: .7em 3em .7em 0 !important;
         padding: .5em 0 !important;
-        color: #427997;
-        outline: none;
+        color: #427997 !important;
+        outline: none !important;
     }
     
     .button_text_blue:focus{
-        box-shadow:none;
-        outline:none;
-        border:none;
+        box-shadow:none !important;
+        outline:none !important;
+        border:none !important;
     }
     
     .button_text_blue:hover{
-        color:#2d586e;
+        color:#2d586e !important;
     }
     
     
     
     .button_fill {
-        margin: 2rem 1rem 0 0;
-        padding: .7rem 3rem;
+        margin: 2rem 1rem 0 0 !important;
+        padding: .7rem 3rem !important;
     }
     
     .btn-primary {
@@ -1751,11 +1734,11 @@ input:required:invalid{
     }
     
     .right-arrow {
-        margin-left: .5rem;
+        margin-left: .5rem !important;
     }
     
     .download-arrow {
-        margin-left: .5rem;
+        margin-left: .5rem !important;
     }
     
     
@@ -2205,10 +2188,6 @@ input:required:invalid{
     display: flex;
 }
 
-.project-container {
-
-}
-
 .cards {
     background-color: grey;
     border-radius: 10px;
@@ -2221,7 +2200,7 @@ input:required:invalid{
 }
 
 .project-card-image {
-    background-size: :cover;
+    background-size:cover;
     height:100%;
     display: block;
     margin: 0 auto;
